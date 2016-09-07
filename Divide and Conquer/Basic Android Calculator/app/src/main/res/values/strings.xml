@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="fn">FirstNumber</string>
+    <string name="fh">First number here</string>
+    <string name =  "sh">Second number here</string>
+    <string name =  "sc">Sibanda Calculator</string>
+    <string name =  "n2">SecondNumber</string>
+    <string name =  "ad">+</string>
+    <string name =  "sub">-</string>
+    <string name =  "mul">X</string>
+    <string name =  "div">/</string>
+    <string name =  "zero">0000</string>
+
+
+</resources>
