@@ -1,4 +1,11 @@
-//T SIBANDA 3580034
+/**
+ *<br>Author : Thabisani Sibanda
+ *<br>Contacts :thabisonsibz@gmail.com
+ *<br>Last updated on 20/08/2016
+ *<br>
+ *<br>The algorithm uses the big integer class to compute the nth catalan numbers
+ 
+ */
 import java.util.Scanner;
 import java.math.BigInteger;
 public class Catalan

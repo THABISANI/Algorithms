@@ -1,4 +1,12 @@
-//T SIBANDA 3580034
+/**
+ *<br>Author : Thabisani Sibanda
+ *<br>Contacts :thabisonsibz@gmail.com
+ *<br>Last updated on 20/08/2016
+
+ *<br>The algorithm uses dynamic programing to calculate the
+ *<br>maximum number of combinations to give a change given a set of coins
+ 
+ */
 import java.util.Scanner;
 public class ChangeMaker
 {

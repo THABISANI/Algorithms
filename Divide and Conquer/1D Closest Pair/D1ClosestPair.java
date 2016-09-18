@@ -1,4 +1,12 @@
-//3580034 SIBANDA THABISANI
+/**
+ *<br>Author : Thabisani Sibanda
+ *<br>Contacts :thabisonsibz@gmail.com
+ *<br>Last updated on 20/08/2016
+ *<br>
+ *<br>The algorithm uses divide and conquer with 8-way merge sort to compute the distance between closest points on the x-axis.
+ *<br>Input of points is read from a file
+ 
+ */
 import java.util.Scanner;
 import java.io.FileNotFoundException;
 import java.io.File;

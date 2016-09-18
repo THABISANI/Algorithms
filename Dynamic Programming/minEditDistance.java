@@ -1,4 +1,12 @@
-//3580034 SIBANDA THABISANI
+/**
+ *<br>Author : Thabisani Sibanda
+ *<br>Contacts :thabisonsibz@gmail.com
+ *<br>Last updated on 20/08/2016
+
+ *<br>The algorithm uses dynamic programing to calculate the
+ *<br>minimum edit distance of two text.
+ 
+ */
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.io.File;public class minEditDistance
